@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/alestor123/NUM-ENG/issues"
   },
-  "homepage": "https://github.com/alestor123/NUM-ENG#readme"
+  "homepage": "https://github.com/alestor123/NUM-ENG#readme",
+  "dependencies": {
+    "written-number": "^0.9.1"
+  }
 }
